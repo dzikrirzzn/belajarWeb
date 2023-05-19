@@ -1,0 +1,17 @@
+p {
+  color: blue;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+/* selector class *bisa dipake dibanyak element */
+.navbar_text {
+  color: red;
+}
+/* selector id */
+#navbar {
+  background-color: rgba(93, 102, 164, 0.646);
+}
+#footer {
+  background-color: yellow;
+}
